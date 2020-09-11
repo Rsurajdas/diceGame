@@ -32,6 +32,25 @@ img {
   width: 80%;
 }
 
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  color: #4ECCA3;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  font-size: 1.25rem;
+  margin-top: 1rem;
+  background: #232931;
+  border: 1px #4ECCA3 solid;
+  border-radius: 10px;
+  padding: 1rem 2rem;
+}
+.btn:hover {
+  background: #4ECCA3;
+  color: #232931;
+  border: #232931 1px solid;
+}
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
